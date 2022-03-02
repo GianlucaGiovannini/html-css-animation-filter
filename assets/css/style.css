@@ -229,11 +229,11 @@
         bottom: -10px;
         right: 20%;
     }
-    30% {
+    25% {
         right: calc(100% - 50px);
         bottom: -10px;
     }
-    45% {
+    50% {
         right: calc(100% - 50px);
         bottom: 100%;
     }
